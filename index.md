@@ -6,4 +6,4 @@ Discord: **Imagine#8825**
 
 [Support Server](https://discord.gg/JTwj6NVsmt)
 ## JavaDocs
-[GalaxyAPI](http://imaginedevmc.github.io/GalaxyAPI/index.html)
+:sparkles:[GalaxyAPI](http://imaginedevmc.github.io/GalaxyAPI/index.html):sparkles:
