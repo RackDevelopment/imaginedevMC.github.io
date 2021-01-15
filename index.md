@@ -9,7 +9,4 @@ Discord: **Imagine#8825**
 [GalaxyLib](http://imaginedevmc.github.io/GalaxyLib/index.html)
 
 ## Fun
-Song of the day:
-https://www.youtube.com/watch?v=YM6ukDewm-U
-
-**Don Toliver** - Wasted
+Song of the day: [**Don Toliver** - Wasted](https://www.youtube.com/watch?v=YM6ukDewm-U)
