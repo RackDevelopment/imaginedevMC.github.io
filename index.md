@@ -7,3 +7,9 @@ Discord: **Imagine#8825**
 [Support Server](https://discord.gg/JTwj6NVsmt)
 ## JavaDocs
 [GalaxyLib](http://imaginedevmc.github.io/GalaxyLib/index.html)
+
+## Fun
+Song of the day:
+https://www.youtube.com/watch?v=YM6ukDewm-U
+
+**Don Toliver** - Wasted
