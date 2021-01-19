@@ -1,22 +1,8 @@
 ## GalaxyLib
-
-1. Add [jitpack](https://jitpack.io/) as a repository.
-
-```markup
-<repository>
-    <id>jitpack.io</id>
-    <url>https://jitpack.io/</url>
-</repository>
-```
-
-2. Add the GitHub information
-
-```markup
-<dependency>
-    <groupId>com.github.imaginedevMC</groupId>
-    <artifactId>GalaxyLib</artifactId>
-    <version>1.1.0</version>
-</dependency>
-```
-
+[Guide / Wiki](https://itsimaginedev.gitbook.io/galaxylib/)
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+## Song of the Day
+[**Eminem** - **Venom**](https://www.youtube.com/watch?v=gRZ_HPYiTC0)
+
+<img src="sotd.jpg" alt="drawing" width="150" height="150"/>
