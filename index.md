@@ -1,4 +1,5 @@
-# Active GitHub Repositories:
+# Active GitHub Repositories
+
 |         Name         | Language | API    |
 | -------------------- | -------- | ------ |
 | FanaticFarming       | Java     | Spigot |
