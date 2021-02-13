@@ -1,9 +1,8 @@
-# Active GitHub Repositories
+# Featured GitHub Repositories
 
 | Name                                                                        | Language | API    | Description                                                               |
 | --------------------------------------------------------------------------- | -------- | ------ | ------------------------------------------------------------------------- |
-| [FanaticFarming](https://github.com/imaginedevMC/FanaticFarming)            | Java     | Spigot | A farming adventure Spigot plugin                                         |
-| [ImagineConfiguration](https://github.com/imaginedevMC/ImagineConfiguration)| Python   | None   | A configuration language interpreter module for `.ic` files (ImagineConfiguration) |
+| [ImagineConfiguration](https://github.com/imaginedevMC/ImagineConfiguration)| Python   | None   | A configuration language interpreter module for `.ic` files (ImagineConfiguration) | :white_check_mark: |
 
 # My Accomplishments
 * Custom config language & interpreter
