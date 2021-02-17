@@ -1,4 +1,4 @@
-Repository: https://github.com/imaginedevMC/ImagineConfiguration]
+Repository: https://github.com/imaginedevMC/ImagineConfiguration
 # About
 This is a simple and lightweight python module for handling small config files.
 # Usage
