@@ -2,7 +2,7 @@
 
 | Name | Language | API | Description | Active |
 | ---- | -------- | --- | ----------- | ------ |
-| [ImagineConfiguration](imaginedevmc.github.io/imagineconfiguration) | Python | None | A configuration language interpreter module for `.ic` files (ImagineConfiguration) | True |
+| [ImagineConfiguration](https://imaginedevmc.github.io/imagineconfiguration) | Python | None | A configuration language interpreter module for `.ic` files (ImagineConfiguration) | True |
 | [TheAddons](https://github.com/imaginedevMC/TheAddons) | Java | Spigot | A Survival+ plugin without changing the way you play | True |
 
 # My Accomplishments
