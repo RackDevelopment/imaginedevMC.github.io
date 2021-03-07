@@ -1,7 +1,7 @@
-body, html {
+body, html { /* Change font */
 	height: 100%;
 	margin: 0;
-	font-family: Nunito
+	font-family: Nunito;
 }
 
 .hero-background {
@@ -22,27 +22,32 @@ body, html {
 	color: white;
 }
 
-table, th, td {
+table, th, td { /* Make table look nicer */
 	border: 1px solid black;
-	border-collapse: collapse
+	border-collapse: collapse;
 }
 
 h1, p, table, th, td {
-	text-align: center
+	text-align: center;
 }
 
-th, td {
-	padding: 8px
+th, td { /* Table elements */
+	padding: 8px;
 }
 
-p {
+p { /* General page text */
 	font-family: "Work Sans";
 }
 
-a {
-	color: black
+a { /* Links */
+	color: rgb(220, 20, 120);
 }
 
-a:hover {
-	color: rgb(220, 20, 120)
+.footer {
+	background-color:#f8f9fa;
+	color: #6c757d;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	width: 100%;
 }
