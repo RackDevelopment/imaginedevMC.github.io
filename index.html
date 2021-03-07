@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 <html>
+	<noscript><p>Your browser does not support JavaScript!</p></noscript>
+
 	<head>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		
@@ -15,6 +17,9 @@
 		<link rel="stylesheet" href="style.css">
 	</head>
 
+	<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+	<script type="text/javascript" src= "contributors.js"></script>
+
 	<body>
 		<div class="hero-background">
 			<div class="hero-text">
@@ -23,13 +28,13 @@
 			</div>
 		</div>
 
-		<h1>Contact Info</h1>
+		<h1 style="margin-top: 50px">Contact Info</h1>
 		<p>Discord Profile: <b>Imagine#3706</b></p>
 
 		<p><a href="https://www.spigotmc.org/members/imaginedev.1069250/">SpigotMC</a></p>
 		<p><a href="https://www.github.com/imaginedevMC/">GitHub</a></p>
 
-		<h1>Active Projects</h1>
+		<h1 style="margin-top: 50px">Active Projects</h1>
 		<table style="width:50%; margin:auto">
 			<tr>
 				<th>Name</th>
@@ -45,8 +50,9 @@
 			</tr>
 		</table>
 	</body>
+
 	<div class="footer">
-		<p>Contributors: <code>imaginedevMC</code></p>
+		<p>Contributors: <code id="contributors"></code></p>
 		<p>Want to contribute? Visit the <a href="https://github.com/imaginedevMC/imaginedevMC.github.io">GitHub.</a></p>
 	</div>
 </html>
