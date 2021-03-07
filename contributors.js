@@ -12,7 +12,7 @@ $(document).ready(() => {
                 contributors.push(obj.login)
             }
             
-            $('#contributors').html(contributors.join());
+            $('#contributors').html(contributors.join(', '));
         }
     })
 });
